@@ -1,2 +1,17 @@
 # Algorithm-java
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+
+이 저장소는 백준 온라인 저지(Baekjoon Online Judge) 문제를 풀기 위해 자동으로 푸시되는 리포지토리입니다. BaekjoonHub를 사용하여 생성되었습니다.
+
+## 소개
+이 리포지토리는 Java를 사용하여 다양한 알고리즘 문제를 해결하고 정리하는 데에 초점을 맞추고 있습니다. 여기에는 백준 온라인 저지에서 풀어본 다양한 난이도의 알고리즘 문제들이 포함되어 있습니다.
+
+## 목적
+Java 알고리즘 학습 및 실습
+백준 온라인 저지 문제 해결 및 솔루션 공유
+코딩 테스트 준비
+
+## 사용 방법
+이 리포지토리에는 여러분이 직접 문제를 풀고, 그 솔루션을 공유할 수 있습니다. 문제 해결에 사용한 Java 코드를 푸시하면 BaekjoonHub가 자동으로 리포지토리에 반영합니다.
+
+## 시작 기간
+2024-01-22 ~
